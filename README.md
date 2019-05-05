@@ -1,4 +1,4 @@
-# GIFtastic!
+# Doggone GIF finder! 
 
 ##Search and view dog themed gifs
 
